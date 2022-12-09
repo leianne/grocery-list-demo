@@ -1,4 +1,7 @@
 # grocery-list-demo
+
+For this project you will be creating a simple grocery list.
+
 Turn this:
 
 <img width="505" alt="Screenshot 2022-12-08 at 8 21 48 PM" src="https://user-images.githubusercontent.com/26041727/206601592-8c827043-c93c-444b-8af7-c9afe6c10411.png">
